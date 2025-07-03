@@ -15,6 +15,11 @@ Put it on the edge of your desktop for visual enjoyment, or use for music creati
 
 ## Tested Environments
 
+> [!NOTE]
+> OS-dependent operation exists only in PySide6 and soundcard, and both libraries are supported Win/Mac/Linux
+>
+> So it will probably work on Mac and/or Linux, but we can't guarantee it!
+
 - Windows 10/11
 - Python 3.12
 
