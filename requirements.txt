@@ -1,0 +1,8 @@
+numpy < 2.3
+SoundCard
+PySide6
+
+# For build.
+# May occur errors if the C/C++ compiler/linker is missing in the environment.
+# If unnecessary, you can delete it.
+nuitka
