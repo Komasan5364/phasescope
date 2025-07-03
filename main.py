@@ -43,7 +43,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         QMainWindow.__init__(self)
 
-        self.setWindowTitle('phasescope')
+        self.setWindowTitle('Phasescope')
         self.setFixedSize(SIZE, SIZE + 20)
 
         self.widget = MainView()
